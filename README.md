@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nandhini A</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://thumbs.dreamstime.com/b/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-316974289.jpg" align="right" width="640"/> </p>
-- 🔭 I’m currently working on **python projects**
 
-- 🌱 I’m currently learning **python**
+
+
 
 - 📫 How to reach me **anand21nandhini@gmail.com**<br><br>
 <img src="https://komarev.com/ghpvc/?username=32nandhini&label=Profile%20views&color=0e75b6&style=flat" alt="32nandhini" />
